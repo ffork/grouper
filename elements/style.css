@@ -3,7 +3,7 @@
             box-sizing: border-box;
         }
         body {
-            background: #F4696A;
+            background: #66ccff;
             margin: 0;
         }
         body div {
@@ -13,17 +13,20 @@
         }
         body div i {
             font-style: normal;
-            width: 200px;
-            height: 200px;
+            width: 140px;
+            height: 140px;
             line-height: 200px;
             border-radius: 100%;
             display: block;
             margin: 0 auto;
             background: #fff;
             text-align: center;
-            color: #F4696A;
-            font-size: 6em;
-            font-family:"Microsoft YaHei";
+            /* color: #F4696A; */
+            /* font-size: 6em;
+            font-family:"Microsoft YaHei"; */
+            background-image: url("https://p.qlogo.cn/gh/579332933/579332933/140");
+            background-repeat: no-repeat;
+            background-position: center; 
         }
         body div p, body div h2 {
             color: #fff;
