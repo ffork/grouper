@@ -10,13 +10,50 @@
 </head>
 
 <body>
-    <div>
-        <i></i>
-        <h2>警告</h2>
-        <p>小伙子，前面的路很危险，你确定要继续向前吗？</p>
-        <blockquote>https://www.chainwon.com/</blockquote>
-        <a href="https://www.chainwon.com/">继续深♂入</a>
-    </div>
+    <script>
+        // 填写 QQ 群号 以及 加群链接
+        var groupnumber = 579332933;
+        var joinlink = "https://jq.qq.com/?_wv=1027&k=5bO3LdO";
+    </script>
+
+    <div class="main">
+        <i id="i"></i>
+
+        <!-- 填写群名称以及描述 -->
+        <h2>惶心剑阁</h2>
+        <p>黄埃散漫风萧索 云栈萦纡登剑阁</p>
+        <p class="middlebtn">
+            <button class="btn btn-primary">加入群组</button>
+            <a href="#showqrcode" class="btn btn-primary">显示二维码</a>
+            <div class="modal" id="showqrcode">
+                <!-- <a href="#" class="modal-overlay" aria-label="Close"></a> -->
+                <div class="modal-container" role="document">
+                    <div class="modal-header">
+                        <a href="#" class="btn btn-clear float-right" aria-label="Close"></a>
+                        <div class="modal-title h5" style="text-align: center">使用 手机QQ 扫描二维码</div>
+                    </div>
+                    <div class="modal-body">
+                        <div class="content">
+                            <script>
+                                var baoluonb = "https://p.qlogo.cn/gh/" + groupnumber + "/" + groupnumber + "/";
+                                var img = document.createElement("img");
+                                img.src = "https://api.imjad.cn/qrcode?text=" + joinlink + "&logo=" + baoluonb + "&size=250&level=L"
+                                img.width = 250;
+                                img.height = 250;
+                                document.querySelector(".modal-body .content").appendChild(img);
+                            </script>
+
+                        </div>
+                    </div>
+                    <div class="modal-footer">
+                        <br>
+                        <br> </div>
+                </div>
+            </div>
+        </p>
+        <script>
+            document.getElementById("i").style.background = "url('" + baoluonb + "') no-repeat center/cover";
+        </script>
 </body>
 
 </html>
