@@ -35,14 +35,16 @@ Please DO NOT Remove Any Of The Copyright Information
             // Fill In Your QQ Group Number And Join Link
             var groupnumber = 579332933;
             var joinlink = "http://qm.qq.com/cgi-bin/qm/qr?k=F2u_B2RzMJYVkIFAy8aD_9TdMgMDnRF6";
+            // Fill In Your QQ Group Name And Description
+            var groupname = "惶心剑阁";
+            var groupdescription = "黄埃散漫风萧索 云栈萦纡登剑阁";
         </script>
     
         <div class="main">
             <i id="i"></i>
     
-            <!-- Fill In Your QQ Group Name And Description -->
-            <h2>惶心剑阁</h2>
-            <p style="font-weight: lighter">黄埃散漫风萧索 云栈萦纡登剑阁</p>
+            <h2 id="name"></h2>
+            <p id="description" style="font-weight: lighter"></p>
     
             <!-- Button Part Start -->
             <p class="middlebtn">
@@ -52,7 +54,7 @@ Please DO NOT Remove Any Of The Copyright Information
                     <div class="modal-container" role="document">
                         <div class="modal-header">
                             <a href="#" class="btn btn-clear float-right" aria-label="Close"></a>
-                            <div class="modal-title h5" style="text-align: center">扫一扫二维码 加入群组</div>
+                            <div id="titleinfo" class="modal-title h5" style="text-align: center">扫一扫二维码 加入群组</div>
                         </div>
                         <div class="modal-body">
                             <div class="content">
@@ -67,6 +69,9 @@ Please DO NOT Remove Any Of The Copyright Information
                                     function openbox() {
                                         window.open(joinlink, "_blank", "toolbar=no,scrollbars=no,visible=none,width=500,height=300");
                                     }
+                                    document.getElementById("name").innerHTML = groupname;
+                                    document.getElementById("description").innerHTML = groupdescription;
+                                    document.getElementById("titleinfo").innerHTML = "扫一扫二维码 加入" + groupname;
                                 </script>
     
                             </div>
