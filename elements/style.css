@@ -1,22 +1,11 @@
-/* link:https://i.chainwon.com/946.html */
-/* 好烦啊为什么要在这里放个链接 =_= （来自惶心） */
+/* HTML Templete Grouper - The Best Way To Show Your Chatting Group To The Public. */
+/* GitHub: https:/github.com/hifocus/Grouper , Released Under MIT Lisence */
+/* Original Version:https://i.chainwon.com/946.html */
+/* Modified By Huangxin on Aug 29th 2018, great thanks to @Dreamer-Paul */
 
-@import url("https://cdn.jsdelivr.net/gh/picturepan2/spectre@0.5.3/dist/spectre.min.css");
-
-* {
-  box-sizing: border-box;
-}
 html,
 body {
   height: 100%;
-}
-
-/* .content {
-    text-align: center;
-    display: inline-block;
-  } */
-
-body {
   margin: 0;
   background: linear-gradient(-45deg, #ee7752, #ce3e75, #23a6d5, #23d5ab);
   background-size: 400% 400%;
@@ -67,21 +56,14 @@ body {
   width: 100%;
 }
 .main i {
-  font-style: normal;
   width: 200px;
   height: 200px;
   border-radius: 100%;
   display: block;
   margin: 0 auto;
-  background: #fff;
   text-align: center;
-  /* color: #F4696A; */
-  /* font-size: 6em;
-   
-  font-family:"Microsoft YaHei"; */
-  /* background: url("https://p.qlogo.cn/gh/579332933/579332933/") no-repeat
-    center/cover; */
 }
+
 body div p,
 body div h2 {
   color: #fff;
@@ -89,51 +71,12 @@ body div h2 {
   margin: 0;
   margin-top: 20px;
 }
-body div blockquote {
-  background: #fff;
-  text-align: center;
-  max-width: 352px;
-  margin: 0 auto;
-  margin-top: 20px;
-  border-radius: 6px;
-  padding: 10px;
-  overflow-y: auto;
-  color: #5a5f69;
-}
-body div blockquote::-webkit-scrollbar {
-  width: 6px;
-  height: 6px;
-}
-body div blockquote::-webkit-scrollbar-thumb {
-  border-radius: 10px;
-  background-color: #888;
-}
-/* body div a,
-body div a:hover,
-body div a:focus {
-  transition: all 0.35s;
-  width: 100px;
-  display: block;
-  color: #fff;
-  margin: 0 auto;
-  margin-top: 20px;
-  text-decoration: none;
-  outline: none;
-  border: 1px solid #fff;
-  border-radius: 6px;
-  text-align: center;
-  line-height: 33px;
-} */
 
-.middlebtn .desktop-only {
+.middlebtn {
   text-align: center;
   margin-left: auto;
   margin-right: auto;
   opacity: 0.85;
-}
-
-body div a:hover {
-  background: rgba(255, 255, 255, 0.2);
 }
 
 .details {
