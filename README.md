@@ -2,7 +2,7 @@
 <img src="https://i.imgur.com/HuooObj.jpg" alt="Grouper Render Poster">
 </p>
 
-<h1 align="center">Grouper.html</h1>
+<a href="https://grouper.hxco.de/Grouper.html" target="_blank"><h1 align="center">Grouper.html</h1></a>
 
 <p align="center">
 <a href="https://tech.hxco.de" target="_blank"><img alt="Author" src="https://img.shields.io/badge/author-Huangxin-red.svg?style=flat-square"/></a>
@@ -16,7 +16,8 @@
 
 ## Introduction
 
-Grouper is a simple `HTML` page which can help you share your [QQ](https://im.qq.com) Groups to public easily. [See Our Blog Post (Chinese Introduction & Documents Also Inclued)](https://tech.hxco.de/announcement/grouper.html)
+Grouper is a simple `HTML` page which can help you share your [QQ](https://im.qq.com) Groups to public easily.
+[See Our Blog Post (Chinese Introduction & Documents Also Inclued)](https://tech.hxco.de/announcement/grouper.html)
 
 ## Features
 
@@ -51,7 +52,7 @@ According to our tests, when we use a CDN, the entire site can be fully loaded i
 Many thanks to [@Dreamer-Paul](https://github.com/Dreamer-Paul), he helped me a lot when developing this project.
 The original version was done by [@nexmoe](https://github.com/nexmoe), opensourced at [his blog](https://i.chainwon.com/946.html).
 
-If you have any further questions, please open a `issue`. Pull request will be most welcome. If you like this project, don't forget to star it!
+If you have any further questions, please open a `issue`. Pull requests will be most welcome. If you like this project, don't forget to star it!
 
 Authur: [@hifocus](https://github.com/hifocus)
 Blog: [Tech HXCO](https://tech.hxco.de)
