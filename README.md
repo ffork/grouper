@@ -48,8 +48,8 @@ According to our tests, when we use a CDN, the entire site can be fully loaded i
             var groupdescription = "黄埃散漫风萧索 云栈萦纡登剑阁";
         </script>
 ```
-1. Modifiy `groupnumber` `joinlink` `groupname` `groupdescription`. For a better experience, please get the `joinlink` by decoding your group QR code.
-1. You are done! Rename `Grouper.html` to `index.html`, then upload the entire site to your server, serve it through one of your domain or subdomain, then share it to everyone!
+4. Modifiy `groupnumber` `joinlink` `groupname` `groupdescription`. For a better experience, please get the `joinlink` by decoding your group QR code.
+5. You are done! Rename `Grouper.html` to `index.html`, then upload the entire site to your server, serve it through one of your domain or subdomain, then share it to everyone!
 
 ## Credit
 
