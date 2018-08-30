@@ -38,7 +38,7 @@ According to our tests, when we use a CDN, the entire site can be fully loaded i
 1. Download the whole repo [here](https://github.com/hifocus/Grouper/archive/master.zip) or clone it to local.
 1. Open `Grouper.html`.
 1. You may see the following code between line `34` and `41`:
-`        <script>
+```        <script>
             // Fill In Your QQ Group Number And Join Link
             var groupnumber = "579332933";
             var joinlink = "http://qm.qq.com/cgi-bin/qm/qr?k=F2u_B2RzMJYVkIFAy8aD_9TdMgMDnRF6";
@@ -46,7 +46,7 @@ According to our tests, when we use a CDN, the entire site can be fully loaded i
             var groupname = "惶心剑阁";
             var groupdescription = "黄埃散漫风萧索 云栈萦纡登剑阁";
         </script>
-`
+```
 1. Modifiy `groupnumber` `joinlink` `groupname` `groupdescription`. For a better experience, please get the `joinlink` by decoding your group QR code.
 1. You are done! Rename `Grouper.html` to `index.html`, then upload the entire site to your server, serve it through one of your domain or subdomain, then share it to everyone!
 
