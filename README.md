@@ -38,7 +38,8 @@ According to our tests, when we use a CDN, the entire site can be fully loaded i
 1. Download the whole repo [here](https://github.com/hifocus/Grouper/archive/master.zip) or clone it to local.
 1. Open `Grouper.html`.
 1. You may see the following code between line `34` and `41`:
-```        <script>
+```        
+        <script>
             // Fill In Your QQ Group Number And Join Link
             var groupnumber = "579332933";
             var joinlink = "http://qm.qq.com/cgi-bin/qm/qr?k=F2u_B2RzMJYVkIFAy8aD_9TdMgMDnRF6";
