@@ -56,7 +56,8 @@ Many thanks to [@Dreamer-Paul](https://github.com/Dreamer-Paul), he helped me a 
 The original version was done by [@nexmoe](https://github.com/nexmoe), opensourced at [his blog](https://i.chainwon.com/946.html).
 
 If you have any further questions, please open a `issue`. Pull requests will be most welcome. 
-If you like this project, don't forget to star it!<a href="https://github.com/hifocus/Grouper/stargazers"><img alt="Contributors" src="https://img.shields.io/github/stars/hifocus/Grouper.svg?style=flat-square"/></a>
+
+If you like this project, don't forget to star it! <a href="https://github.com/hifocus/Grouper/stargazers"><img alt="Contributors" src="https://img.shields.io/github/stars/hifocus/Grouper.svg?style=flat-square"/></a>
 
 
 Authur: [@hifocus](https://github.com/hifocus)
