@@ -25,6 +25,7 @@ Grouper is a simple `HTML` page which can help you share your [QQ](https://im.qq
 - Easy to config.
 - Excellent performance. 
 - Muilt-devices optimization.
+- Dynamic background effects.
 
 ## Performance
 
@@ -54,7 +55,9 @@ According to our tests, when we use a CDN, the entire site can be fully loaded i
 Many thanks to [@Dreamer-Paul](https://github.com/Dreamer-Paul), he helped me a lot when developing this project.
 The original version was done by [@nexmoe](https://github.com/nexmoe), opensourced at [his blog](https://i.chainwon.com/946.html).
 
-If you have any further questions, please open a `issue`. Pull requests will be most welcome. If you like this project, don't forget to star it!
+If you have any further questions, please open a `issue`. Pull requests will be most welcome. 
+If you like this project, don't forget to star it!<a href="https://github.com/hifocus/Grouper/stargazers"><img alt="Contributors" src="https://img.shields.io/github/stars/hifocus/Grouper.svg?style=flat-square"/></a>
+
 
 Authur: [@hifocus](https://github.com/hifocus)
 Blog: [Tech HXCO](https://tech.hxco.de)
