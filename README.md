@@ -29,6 +29,7 @@ Grouper is a simple `HTML` page which can help you share your [QQ](https://im.qq
 ## Performance
 
 According to our tests, when we use a CDN, the entire site can be fully loaded in 1 second. Tested in a normal home bandwidth network environment.
+
 <img src="https://i.imgur.com/4zIzeJJ.png" alt="Grouper Performance Test">
 
 ## Config
