@@ -17,6 +17,7 @@
 ## Introduction
 
 Grouper is a simple `HTML` page which can help you share your [QQ](https://im.qq.com) Groups to public easily.
+
 [See Our Blog Post (Chinese Introduction & Documents Also Inclued)](https://tech.hxco.de/announcement/grouper.html)
 
 ## Features
