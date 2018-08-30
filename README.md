@@ -57,10 +57,9 @@ The original version was done by [@nexmoe](https://github.com/nexmoe), opensourc
 
 If you have any further questions, please open a `issue`. Pull requests will be most welcome. 
 
-If you like this project, don't forget to star it! <a href="https://github.com/hifocus/Grouper/stargazers"><img alt="Contributors" src="https://img.shields.io/github/stars/hifocus/Grouper.svg?style=flat-square"/></a>
+If you like this project, don't forget to star it! <a href="https://github.com/hifocus/Grouper/stargazers"><img alt="Contributors" src="https://img.shields.io/github/stars/hifocus/Grouper.svg?style=social"/></a>
 
 
-Authur: [@hifocus](https://github.com/hifocus)
-Blog: [Tech HXCO](https://tech.hxco.de)
+Authur: [@hifocus](https://github.com/hifocus) | Blog: [Tech HXCO](https://tech.hxco.de)
 
 
