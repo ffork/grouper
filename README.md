@@ -24,7 +24,7 @@ Grouper is a simple `HTML` page which can help you share your [QQ](https://im.qq
 
 - Easy to config.
 - Excellent performance. 
-- Muilt-devices optimization.
+- Muilt-devices optimisation.
 - Dynamic background effects.
 - More features waiting for you to discover: [https://Grouper.HXCO.DE/Grouper.html](https://Grouper.HXCO.DE/Grouper.html)
 
